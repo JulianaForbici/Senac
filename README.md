@@ -2,7 +2,9 @@
 
 Este repositório contém um exercício prático desenvolvido durante as aulas do curso de [nome do curso] do **Senac**, com o professor **Thiago**. O projeto tem como objetivo aplicar conceitos de programação e desenvolvimento de sistemas, utilizando tecnologias como C# e Blazor.
 
-![Gif Club](https://media.tenor.com/X6oLkn9sBewAAAAj/sparklepandalana-penguin.gif)
+<p align="right">
+    <img src="https://media.tenor.com/X6oLkn9sBewAAAAj/sparklepandalana-penguin.gif" width="150" height="150" />
+</p>
 
 ## Descrição
 
@@ -47,6 +49,7 @@ Antes de rodar o projeto, verifique se você tem as seguintes ferramentas instal
 
 4. Compile e execute o projeto utilizando o Visual Studio, clicando em Run ou pressionando Ctrl + F5.
 
+<p align="center">
+    <img src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif" width="200" height="200" />
+</p>
 
-   ```markdown
-  ![gatinho ](https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif)

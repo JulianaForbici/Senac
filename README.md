@@ -1,0 +1,2 @@
+# Senac
+Exercícios do Tecnólogo 

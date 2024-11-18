@@ -1,6 +1,6 @@
 # Projeto Senac - Exercício de Aulas
 
-Este repositório contém um exercício prático desenvolvido durante as aulas do curso de [nome do curso] do **Senac**, com o professor **Thiago**. O projeto tem como objetivo aplicar conceitos de programação e desenvolvimento de sistemas, utilizando tecnologias como C# e Blazor.
+Este repositório contém um exercício prático desenvolvido durante as aulas do curso de ADS do **Senac**, com o professor **Thiago**. O projeto tem como objetivo aplicar conceitos de programação e desenvolvimento de sistemas, utilizando tecnologias como C# e Blazor.
 
 <p align="right">
     <img src="https://media.tenor.com/X6oLkn9sBewAAAAj/sparklepandalana-penguin.gif" width="150" height="150" />
